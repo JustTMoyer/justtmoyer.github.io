@@ -5,3 +5,6 @@ rvm: 2.5
 
 install: script/bootstrap
 script: script/cibuild
+
+title: [Designing Clarity]
+description: [Design should be so clear you don't even consider how it was designed.]
